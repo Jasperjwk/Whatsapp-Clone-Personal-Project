@@ -1,14 +1,14 @@
 # Tech in my project build
 
 React
-Firebase Firestore Realtime db
-Material UI
-React Router
-React Context API
-REDUX
-Google Authentication
-Deploy using Firebase!
-Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
+1) Firebase Firestore Realtime db
+2) Material UI
+3) React Router
+4) React Context API
+5) REDUX
+6) Google Authentication
+7)Deploy using Firebase!
+8)Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
 
 # How to run my project in React
 1) npm install
