@@ -9,7 +9,8 @@ React
 6) Google Authentication
 7) Deploy using Firebase! 
 
-Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
+# Hosting URL: 
+https://whatsapp-clone-personal-98bdc.web.app
 
 # How to run my project in React
 1) npm install
