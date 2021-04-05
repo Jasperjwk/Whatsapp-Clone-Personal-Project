@@ -1,4 +1,4 @@
-#Tech in my project build
+# Tech in my project build
 
 React
 Firebase Firestore Realtime db
@@ -10,11 +10,11 @@ Google Authentication
 Deploy using Firebase!
 Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
 
-#How to run my project in React
+# How to run my project in React
 1) npm install
 2) npm start
 
-#My Personal Notes
+# My Personal Notes
 
 npx create-react-app whatsapp-clone-personal-project
 
