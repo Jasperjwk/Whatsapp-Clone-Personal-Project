@@ -7,8 +7,8 @@ React
 4) React Context API
 5) REDUX
 6) Google Authentication
-7)Deploy using Firebase!
-8)Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
+7) Deploy using Firebase!
+8) Hosting URL: https://whatsapp-clone-personal-98bdc.web.app
 
 # How to run my project in React
 1) npm install
