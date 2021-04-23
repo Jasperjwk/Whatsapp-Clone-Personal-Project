@@ -1,8 +1,7 @@
-![Whatsapp](https://user-images.githubusercontent.com/63961200/115815928-7eed6180-a42a-11eb-8870-7a595710911e.gif)
-
-
 # Hosting URL: 
 https://whatsapp-clone-personal-98bdc.web.app
+
+![Whatsapp](https://user-images.githubusercontent.com/63961200/115815928-7eed6180-a42a-11eb-8870-7a595710911e.gif)
 
 # Tech in my project build
 
